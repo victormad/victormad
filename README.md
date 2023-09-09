@@ -6,13 +6,13 @@
 ![AWS](https://img.shields.io/badge/AWS-7-blueviolet)
 
 
-Senior Software Engineer at [Cerby](https://www.cerby.com/). Backend developer during the day and a Salsa Dancer during the night. I have worked for some startups developing mainly backend, but I have done a bit of React and Angular.
+Senior Software Engineer at [Cerby](https://www.cerby.com/). Full Stack developer during the day and currently climbing some nights. I have worked at startups and bigger companies developing mainly with JS and Python.
 
-- I’m currently working on a project for a multinational mass media company at Wizeline.
-- I’m currently taking leadership trainings 
+- I’m currently working with Flask and React.
+- I have experience in leadership roles (Mentorship and Engineering Management).
 - Mastering: `.js`,`.ts`,`.py`
-- I'm learning better practices every day 
-- I'm improving my mentorhip skills
+- I'm improving my practices in React.
+- I'm learning more about myself.
 
 ### 📬 Get in Touch
 
