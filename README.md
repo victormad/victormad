@@ -6,7 +6,7 @@
 ![AWS](https://img.shields.io/badge/AWS-7-blueviolet)
 
 
-Software Engineer at [Wizeline](https://www.wizeline.com/). Backend developer during the day and a Salsa Dancer during the night. I have worked for some startups developing mainly backend, but I have done a bit of React and Angular.
+Senior Software Engineer at [Cerby](https://www.cerby.com/). Backend developer during the day and a Salsa Dancer during the night. I have worked for some startups developing mainly backend, but I have done a bit of React and Angular.
 
 - I’m currently working on a project for a multinational mass media company at Wizeline.
 - I’m currently taking leadership trainings 
